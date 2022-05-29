@@ -181,7 +181,7 @@ body {
   .composition__photo {
     width: 55%;
     position: absolute;
-    transition: all 0.2s ease-in;
+    transition: all 0.4s ease-in;
     outline-offset: 2rem; }
     .composition__photo:hover {
       z-index: 10;
